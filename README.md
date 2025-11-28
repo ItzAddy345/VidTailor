@@ -4,6 +4,20 @@
 
 *Project Duration: June 2024 - June 2025*
 
+---
+
+## Project Poster
+
+![VidTailor Poster](./assets/CPT208_Group50_Poster.png)
+
+---
+
+## Demo Preview
+
+![VidTailor Demo](./assets/CPT208_Group50_Demo.gif)
+
+---
+
 ## Overview
 
 VidTailor is an intelligent video learning platform that generates personalized practice questions by analyzing students' viewing behaviors, providing precise learning feedback and a social learning experience.
@@ -55,6 +69,10 @@ VidTailor's solutions:
 - ✅ Personalized learning paths with instant feedback
 - ✅ Integrated social learning community
 
+## Project Handout
+
+![VidTailor Handout](./assets/CPT208_Group50_handout.png)
+
 ## Technical Highlights
 
 - Video content understanding and knowledge point extraction
@@ -65,5 +83,3 @@ VidTailor's solutions:
 ---
 
 *Project Lead: Yue Li*
-
-# VidTailor
