@@ -80,6 +80,10 @@ VidTailor's solutions:
 - Personalized recommendation engine
 - Intelligent Q&A and collaboration system
 
+## Bilbil
+
+- 📺 **[VidTailor 讲解视频（B站）](https://www.bilibili.com/video/BV1o4dxY1E8k/)**  — Our Presentation of VIdtailor
+
 ## Usage
 
 1. Clone the repository:
