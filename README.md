@@ -18,6 +18,11 @@
 
 ---
 
+## Bilbil
+
+- 📺 **[VidTailor 讲解视频（B站）](https://www.bilibili.com/video/BV1o4dxY1E8k/)**  — Our Presentation of VIdtailor
+
+
 ## Overview
 
 VidTailor is an intelligent video learning platform that generates personalized practice questions by analyzing students' viewing behaviors, providing precise learning feedback and a social learning experience.
@@ -79,10 +84,6 @@ VidTailor's solutions:
 - Learning behavior analysis algorithms
 - Personalized recommendation engine
 - Intelligent Q&A and collaboration system
-
-## Bilbil
-
-- 📺 **[VidTailor 讲解视频（B站）](https://www.bilibili.com/video/BV1o4dxY1E8k/)**  — Our Presentation of VIdtailor
 
 ## Usage
 
